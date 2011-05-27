@@ -1,0 +1,1 @@
+voteNow.replace("<d>",parseInt(curOutfit)+1);

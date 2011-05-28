@@ -1,0 +1,1 @@
+document.createComment("comment info");

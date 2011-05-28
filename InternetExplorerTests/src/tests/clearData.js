@@ -1,0 +1,1 @@
+window.event.dataTransfer.clearData("Text");

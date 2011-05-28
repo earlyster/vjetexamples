@@ -1,0 +1,1 @@
+window.clearInterval(10);

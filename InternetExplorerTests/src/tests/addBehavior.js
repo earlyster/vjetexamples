@@ -6,7 +6,7 @@ function attachBehavior()
 {
    collLI = document.all.tags ("LI");
    countLI = collLI.length;
-    for (i=0; i < countLI; i++)
+    for (var i=0; i < countLI; i++)
 	{
 	   var iID = collLI[i].addBehavior ("hilite.htc");
 	

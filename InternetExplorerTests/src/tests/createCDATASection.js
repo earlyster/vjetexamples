@@ -1,0 +1,1 @@
+document.createCDATASection( "My content" ); 

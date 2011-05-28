@@ -6,7 +6,7 @@ function draw()
   var canvas = document.getElementById("MyCanvas");
  	if (canvas.getContext) {
  	  var ctx = canvas.getContext("2d");
-      gradient = ctx.createLinearGradient(0, 0, canvas.width, 0);
+      var gradient = ctx.createLinearGradient(0, 0, canvas.width, 0);
 
   // Add the colors with fixed stops at 1/4 of the width.
       gradient.addColorStop("0","magenta");

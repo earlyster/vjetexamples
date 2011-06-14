@@ -4,6 +4,7 @@ function CreateHTTPRequestObject () {
     if (window.XMLHttpRequest && !forceActiveX) {
         return new XMLHttpRequest();
     }
+   
     else {
         try {
             return new ActiveXObject("Microsoft.XMLHTTP");

@@ -1,0 +1,1 @@
+var aDivs = document.body.getElementsByTagName("DIV");

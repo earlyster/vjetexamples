@@ -4,6 +4,7 @@
                 // the imported style sheet
             var importedSheet = linkTag.sheet ? linkTag.sheet : linkTag.styleSheet;
     
+            
                 // the first rule in the style sheet
             var rules = importedSheet.cssRules ? importedSheet.cssRules : importedSheet.rules;
             var firstRule = rules[0];

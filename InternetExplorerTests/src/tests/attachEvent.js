@@ -1,2 +1,2 @@
-attachEvent ('onmouseover', Hilite);
-attachEvent ('onmouseout', Restore);
+attachEvent ('onmouseover', function(){});
+attachEvent ('onmouseout', function(){});

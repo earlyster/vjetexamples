@@ -1,1 +1,3 @@
-navigator.userProfile.clearRequest()
+// TODO navigator.userProfile
+navigator.userProfile.clearRequest();
+

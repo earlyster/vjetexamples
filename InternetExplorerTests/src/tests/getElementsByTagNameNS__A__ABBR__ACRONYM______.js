@@ -1,0 +1,1 @@
+document.getElementsByTagNameNS("http://www.mydomain.com/mynamespace","title")

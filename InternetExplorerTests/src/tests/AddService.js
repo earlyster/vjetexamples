@@ -1,1 +1,1 @@
-window.external.AddService(URL)
+window.external.AddService("http://myservice")

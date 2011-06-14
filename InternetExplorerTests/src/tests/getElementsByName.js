@@ -1,0 +1,1 @@
+ var aInput=document.getElementsByName("firstName");

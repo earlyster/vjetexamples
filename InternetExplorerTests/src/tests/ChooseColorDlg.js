@@ -1,7 +1,7 @@
 //This variable must have global scope for the callColorDlg function to persist the chosen color
 // missing HtmlDlgSafeHelper
 
-
+var dlgHelper = document.getElementById("dlgHelper"); //<< HtmlDlgSafeHelper
 var sInitColor = null;
 function callColorDlg(){
 //if sInitColor is null, the color dialog box has not yet been called

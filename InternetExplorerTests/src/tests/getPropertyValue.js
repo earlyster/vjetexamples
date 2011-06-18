@@ -8,3 +8,4 @@
         alert (button.style.getAttribute("backgroundColor"));
     }
 }
+ 
